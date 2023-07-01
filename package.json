@@ -1,0 +1,17 @@
+{
+  "name": "ubuntu-wetty-heroku",
+  "version": "1.0.0",
+  "description": "A web-based Ubuntu terminal using Wetty on Heroku with data persistence",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "wetty": "^2.1.1",
+    "sqlite3": "^5.0.2"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
