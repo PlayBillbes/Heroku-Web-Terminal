@@ -1,0 +1,13 @@
+{
+  "name": "Web-based Terminal with Wetty",
+  "description": "Deploy a web-based terminal with Wetty on Heroku",
+  "repository": "https://github.com/your-github-username/your-repo-name",
+  "logo": "https://www.herokucdn.com/images/favicon.ico",
+  "keywords": ["wetty", "terminal", "web", "Heroku"],
+  "env": {
+    "SUDO_PASSWORD": {
+      "description": "The sudo password for the terminal",
+      "value": ""
+    }
+  }
+}
