@@ -7,11 +7,11 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "wetty": "^2.1.1",
-    "sqlite3": "^5.0.2"
+    "express": "4.17.1",
+    "wetty": "2.1.1",
+    "sqlite3": "5.0.2"
   },
   "engines": {
-    "node": "18.x"
+    "node": "14.x"
   }
 }
