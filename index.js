@@ -1,5 +1,5 @@
 const express = require('express');
-const { Wetty } = require('wetty');
+const { Wetty } = import('wetty');
 const { db } = require('./db');
 
 const app = express();
